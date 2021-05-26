@@ -1,0 +1,4 @@
+from webexteamssdk import WebexTeamsAPI
+
+WEBEX_TEAMS_ACCESS_TOKEN = 'YTFhOWZlOGEtZmYwNC00MzFhLWE1YWQtMjBjMWI1M2NjZDc0YjkwMzc3OTctM2Rl_PF84_1eb65fdf-9643-417f-9974-ad72cae0e10f'
+api = WebexTeamsAPI(access_token=WEBEX_TEAMS_ACCESS_TOKEN)
